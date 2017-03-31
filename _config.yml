@@ -7,7 +7,7 @@ highlighter: 'pygments'
 permalink: /:title
 
 name: “Songtao's Blog”
-title: “Songtao's blog
+title: 凉凉夜色为你思念成河
 description: Everything about Songtao.
 url: http://www.steff720.com
 feed: /atom.xml
