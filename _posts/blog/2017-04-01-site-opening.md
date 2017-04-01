@@ -21,12 +21,10 @@ description: 利用gitpage+jekyll，倒腾了两天
 
 1. 要翻墙
 2. 安装完ruby和gem后，还需要把ruby的devkit装好
-3. 在本地测试jekyll的时候，新版本(3.3以后)生成的目录结构和官网上是不一样的，主要是缺少include和layout这两个文件夹。这个问题一度让我无法继续，在jekyll的官网上找到了答案如下:
+3. 在本地测试jekyll的时候，新版本(3.3以后)生成的目录结构和官网上是不一样的，主要是缺少include和layout这两个文件夹。这个问题一度让我无法继续，在jekyll的官网上找到了答案如下，所以就用anything搜索了下minima，顺利找到然后拷贝出来即可。
 
 > Starting Jekyll 3.2, a new Jekyll project bootstrapped with jekyll new uses gem-based themes to define the look of the site. This results in a lighter default directory structure : _layouts, _includes and _sass are stored in the theme-gem, by default.
 minima is the current default theme, and bundle show minima will show you where minima theme's files are stored on your computer.
-
-所以就用anything搜索了下minima，顺利找到然后拷贝出来即可。
 
 4. 碰到问题一定看官方spec，按顺便来，一定能解决问题
 
@@ -44,5 +42,5 @@ minima is the current default theme, and bundle show minima will show you where 
 gitpage需要遵守的语法规则可以参考下面链接：
 <http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-9>
 
-##5. 尽情享受创作的乐（装）趣（逼）吧
+##5. 尽情享受创（装）作（逼）的乐趣
 over
